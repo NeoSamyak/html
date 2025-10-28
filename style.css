@@ -13,7 +13,7 @@
         height: 100vh;
         display: flex;
         justify-content: center;
-        align-items: flex-end; /* ball sits on "ground" */
+        align-items: flex-end;
         padding-bottom: 50px;
       }
 
